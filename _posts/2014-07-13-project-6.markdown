@@ -6,7 +6,8 @@ img: Amrapali_Silicon_City.jpg
 alt: image-alt
 project-date: April 2014
 client: Amrapali Silicon City
-category: Web Development
+category: Housing Society
+status: Construction started
 Address: Sector 76, Noida
 AppartmentType: 2/3/4 BHK Apartments
 description: Amrapali Group is committed to set the trend for luxurious, modern and convenient living for the young age individuals. A well-constructed luxurious home in a prime location of Noida with every cozy living amenity and a comfortable lifestyle is offered by a mega polis of high tech homes called Amrapali Silicon City.  The launch of new residential project is recently announced by the Amrapali Group to refine the lifestyle of young age individual. The new residential project is located in the premium location of sector 76, Noida which is well connected with existing metro stations, Airport and famous market places. Amrapali Silicon Noida City Noida will have new range of 2, 3 & 4 BHK bedroom apartments and studio apartments with three layer security system. The whole township is sprawl over vast acre of land and more than 75% of area is kept open and covered with green landscape. There will be plenty of dreamt amenity in dream home like, swimming pool, jogging track, club house, recreational area, spa, gym, leisure and entertainment facility, health care, tennis And basketball court, closed and open parking space and many more to list. It is a first township where you can find the perfect combination of technology and nature to build e-homes. It is a Unique housing solution that is inspired by the high technology and modern architecture.

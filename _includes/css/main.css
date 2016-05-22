@@ -125,7 +125,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 0px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -139,7 +139,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
+        padding: 0px 0;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
@@ -456,4 +456,15 @@ footer .footer-below {
 }
 section#portfolio {
     padding: 29px 0px;
+}
+.portfolio-img {
+    margin: 0 auto; 
+    max-width: 150px;
+    max-height: 100px;
+}
+.portfolio-item-details > p {
+    font-size: 17px;
+}
+.contact-section {
+    padding: 0px 0px;
 }
