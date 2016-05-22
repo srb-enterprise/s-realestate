@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: submarine.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+site1: http://www.findmyghar.com/project/amrapali-silicon-city-project-in-sector-76-noida-1018719.php
+site2: http://www.findmyghar.com/project/ajnara-grand-heritage-project-in-sector-74-noida-1018713.php
+site3: http://www.findmyghar.com/project/ajnara-homes-121-project-in-sector-121-noida-1018722.php
+site4: http://www.findmyghar.com/project/apex-athena-project-in-sector-75-noida-10187423.php
+site5: http://www.findmyghar.com/project/supertech-northeye-project-in-sector-74-noida-1018744.php
+---
