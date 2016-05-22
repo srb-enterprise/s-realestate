@@ -2,38 +2,44 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: Amrapali_Silicon_City.jpg
+img: apex-athena-logo.jpg
 alt: image-alt
 project-date: April 2014
-client: Amrapali Silicon City
+client: Apex Athena
 category: Builder floor
 status: Construction started
 Address: Sector 76, Noida
 AppartmentType: 2/3/4 BHK Apartments
-description: Amrapali Group is committed to set the trend for luxurious, modern and convenient living for the young age individuals. A well-constructed luxurious home in a prime location of Noida with every cozy living amenity and a comfortable lifestyle is offered by a mega polis of high tech homes called Amrapali Silicon City.  The launch of new residential project is recently announced by the Amrapali Group to refine the lifestyle of young age individual. The new residential project is located in the premium location of sector 76, Noida which is well connected with existing metro stations, Airport and famous market places. Amrapali Silicon Noida City Noida will have new range of 2, 3 & 4 BHK bedroom apartments and studio apartments with three layer security system. The whole township is sprawl over vast acre of land and more than 75% of area is kept open and covered with green landscape. There will be plenty of dreamt amenity in dream home like, swimming pool, jogging track, club house, recreational area, spa, gym, leisure and entertainment facility, health care, tennis And basketball court, closed and open parking space and many more to list. It is a first township where you can find the perfect combination of technology and nature to build e-homes. It is a Unique housing solution that is inspired by the high technology and modern architecture.
+description: Come be mesmerized by the serene surroundings and beautiful architecture of Apex Athena. Come home, come to Apex Athena. One of the largest real estate players, the Apex Group brings Apex Athena a luxury residential project in the center of Noida. Located just 6 km apart from DND flyway, the project offers 2/3/4 bedroom apartments. The project is located at plot no. 12A, Eco City, Sector-75 Noida. It has got great metro connectivity just 5 minutes’ drive away from City Center Metro Station. The project has also got great location advantage as it is in close proximity to the commercial districts of Noida and En route to F1 Racing Track. More than 75% of the project area is planned for roads and central parks and amenities of the project match international standards. Surrounded by lush greenery, the project is strategically located in Sector 75, Noida, and is three side open plot enabling fresh air and proper sun light. Hence, it has got high probability of capital appreciation in near term. Now, you can take your loved one on a long drive at Taj Expressway and cherish your precious moments. Taj Expressway- India's Longest Access Controlled Concrete Pavement Expressway is located just 4 km away from the residential development. It is a vaastu complaint project and built on earthquake resistant RCC frame structure. Posh and Spacious Club House, Power Back Up, Swimming Pool, Kids Play Area, 24*7 security surveillance, Kids Play Area, Business Centre, Meditation Area and Flower Gardens are the amenities offered under the residential plan.
 pricePlans:
   - classification: Apartment
     type: 2 BHK+2T
-    size: 950
+    size: 1295
     sizeIn: sq.ft
-    bsp: 54.2 Lacs
-    bsp-rate: 5700/Sq.ft
-  - classification: Apartment
-    type: 2 BHK+2T
-    size: 1075
-    sizeIn: sq.ft
-    bsp: 61.3 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 62.8 Lacs
+    bsp-rate: 4850/Sq.ft
   - classification: Apartment
     type: 3 BHK+3T
-    size: 1475
+    size: 1670
     sizeIn: sq.ft
-    bsp: 84.1 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 81 Lacs
+    bsp-rate: 4850/Sq.ft
   - classification: Apartment
-    type: 3 BHK+4T
-    size: 1775
+    type: 3 BHK+3T
+    size: 1895
+    sizeIn: sq.ft
+    bsp: 91.9 Lacs
+    bsp-rate: 4850/Sq.ft
+  - classification: Apartment
+    type: 	3 BHK+3T+1SR
+    size: 2099
     sizeIn: sq.ft
     bsp: 1 Cr.
-    bsp-rate: 5700/Sq.ft
+    bsp-rate: 4850/Sq.ft
+  - classification: Apartment
+    type: 	4 BHK+5T+1SR
+    size: 2725
+    sizeIn: sq.ft
+    bsp: 1.3 Cr.
+    bsp-rate: 4850/Sq.ft
 ---

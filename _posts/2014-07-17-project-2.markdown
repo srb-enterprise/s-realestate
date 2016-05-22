@@ -2,38 +2,38 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: Amrapali_Silicon_City.jpg
+img: Supertech North Eye.jpg
 alt: image-alt
 project-date: April 2014
-client: Amrapali Silicon City
-category: Villas
-status: Construction started
+client: Supertech Northeye
+category: Apartments
+status: Under Construction
 Address: Sector 76, Noida
 AppartmentType: 2/3/4 BHK Apartments
-description: Amrapali Group is committed to set the trend for luxurious, modern and convenient living for the young age individuals. A well-constructed luxurious home in a prime location of Noida with every cozy living amenity and a comfortable lifestyle is offered by a mega polis of high tech homes called Amrapali Silicon City.  The launch of new residential project is recently announced by the Amrapali Group to refine the lifestyle of young age individual. The new residential project is located in the premium location of sector 76, Noida which is well connected with existing metro stations, Airport and famous market places. Amrapali Silicon Noida City Noida will have new range of 2, 3 & 4 BHK bedroom apartments and studio apartments with three layer security system. The whole township is sprawl over vast acre of land and more than 75% of area is kept open and covered with green landscape. There will be plenty of dreamt amenity in dream home like, swimming pool, jogging track, club house, recreational area, spa, gym, leisure and entertainment facility, health care, tennis And basketball court, closed and open parking space and many more to list. It is a first township where you can find the perfect combination of technology and nature to build e-homes. It is a Unique housing solution that is inspired by the high technology and modern architecture.
+description: If you are looking for a place where you can actually set up your own identification and can succeed your kingdom from their itself, then your search is about to get over. Supertech Ltd. delivers you the new dwelling unit with all numerous components to achieve your dream home in the name of Supertech North Eye. It is the fresh launch by the Supertech to revolutionize the life style of new age individual. It is a unique residential project where moon is closer than you think. Live at a sky touching height and gauge the every mood the celestial body. Enjoy super-luxury amenities at the posh locality of Sector 74 Noida which will be 255 meter tall and will have 66 floors. Experience living at height and break away the myth of gravity and feel free. The project boasts to design 360- degree view at the north eye spectator, which would be set up with a high- end telescope. You may find top class amenity like synthetically developed jogging track, well elevated road inside the campus, swimming pool, underground car parking, 24*7 three layer security, park, club house, recreational area, zone for kids and many more.
 pricePlans:
   - classification: Apartment
-    type: 2 BHK+2T
-    size: 950
+    type: 1 BHK+1T
+    size: 535
     sizeIn: sq.ft
-    bsp: 54.2 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 48.1 Lacs
+    bsp-rate: 8991/Sq.ft
   - classification: Apartment
     type: 2 BHK+2T
-    size: 1075
+    size: 1495
     sizeIn: sq.ft
-    bsp: 61.3 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 1.3 Cr.
+    bsp-rate: 8991/Sq.ft
   - classification: Apartment
     type: 3 BHK+3T
-    size: 1475
+    size: 2510
     sizeIn: sq.ft
-    bsp: 84.1 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 2.3 Cr.
+    bsp-rate: 8991/Sq.ft
   - classification: Apartment
-    type: 3 BHK+4T
-    size: 1775
+    type: 4 BHK+4T
+    size: 3350
     sizeIn: sq.ft
-    bsp: 1 Cr.
-    bsp-rate: 5700/Sq.ft
+    bsp: 3 Cr.
+    bsp-rate: 8991/Sq.ft
 ---

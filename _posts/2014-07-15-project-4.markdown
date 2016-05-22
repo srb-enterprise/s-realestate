@@ -2,38 +2,92 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: Amrapali_Silicon_City.jpg
+img: ajnara-homes-121-logo.jpg
 alt: image-alt
 project-date: April 2014
-client: Amrapali Silicon City
-category: Flats
-status: Construction started
-Address: Sector 76, Noida
-AppartmentType: 2/3/4 BHK Apartments
-description: Amrapali Group is committed to set the trend for luxurious, modern and convenient living for the young age individuals. A well-constructed luxurious home in a prime location of Noida with every cozy living amenity and a comfortable lifestyle is offered by a mega polis of high tech homes called Amrapali Silicon City.  The launch of new residential project is recently announced by the Amrapali Group to refine the lifestyle of young age individual. The new residential project is located in the premium location of sector 76, Noida which is well connected with existing metro stations, Airport and famous market places. Amrapali Silicon Noida City Noida will have new range of 2, 3 & 4 BHK bedroom apartments and studio apartments with three layer security system. The whole township is sprawl over vast acre of land and more than 75% of area is kept open and covered with green landscape. There will be plenty of dreamt amenity in dream home like, swimming pool, jogging track, club house, recreational area, spa, gym, leisure and entertainment facility, health care, tennis And basketball court, closed and open parking space and many more to list. It is a first township where you can find the perfect combination of technology and nature to build e-homes. It is a Unique housing solution that is inspired by the high technology and modern architecture.
+client: Ajnara Homes 121
+category: Apartment
+status: Ready For Possession
+Address: Sector 121, Noida
+AppartmentType: 2/3 BHK Apartments
+description: Homes 121 Noida is an incredible housing project ventured jointly by of Ajnara India Ltd. & Gulshan Homz Pvt. Ltd. The project is closely surrounded by developed residential area and in vicinity with various IT & Institutional areas like Sec-63 & Sec-64, Sec-58 & Sec-61. Residential apartments at Homes 121 are bloomed with elegant beauty and delight, priced at the most affordable budget these homes are strategically located Sector 121 of Noida, which meets the standards and quality of life desired by people to settle in Delhi and NCR. Noida, due to its nearness from the national capital Delhi and other suburbs, proves to be the most attractive and strategic location, enclosed by the proposed Metro Station, world class architecture , shopping malls, multiplexes, quality schools, high-facility hospitals, functional residential and commercial complexes, community centre, children parks and shopping centres and other modern offerings. Homes 121 apartments are designed aesthetically and beautifully making this developing township project even more lively and refreshing. Apartments are available in options of two and three bedroom flats, offering luxurious lifestyle at affordable prices. The rooms are designed artfully and craftily structured; Homes 121 is an ideal destination for home seekers
 pricePlans:
   - classification: Apartment
     type: 2 BHK+2T
-    size: 950
+    size: 945
     sizeIn: sq.ft
-    bsp: 54.2 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 47.3 Lacs
+    bsp-rate: 5000/Sq.ft
   - classification: Apartment
     type: 2 BHK+2T
     size: 1075
     sizeIn: sq.ft
-    bsp: 61.3 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 53.8 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 2 BHK+2T
+    size: 1090
+    sizeIn: sq.ft
+    bsp: 54.5 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1235
+    sizeIn: sq.ft
+    bsp: 61.8 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1285
+    sizeIn: sq.ft
+    bsp: 64.3 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1400
+    sizeIn: sq.ft
+    bsp: 70 Lacs
+    bsp-rate: 5000/Sq.ft
   - classification: Apartment
     type: 3 BHK+3T
-    size: 1475
+    size: 1500
     sizeIn: sq.ft
-    bsp: 84.1 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 75 Lacs
+    bsp-rate: 5000/Sq.ft
   - classification: Apartment
-    type: 3 BHK+4T
-    size: 1775
+    type: 3 BHK+2T
+    size: 1545
     sizeIn: sq.ft
-    bsp: 1 Cr.
-    bsp-rate: 5700/Sq.ft
+    bsp: 77.3 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1575
+    sizeIn: sq.ft
+    bsp: 78.8 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1585
+    sizeIn: sq.ft
+    bsp: 79.3 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1615
+    sizeIn: sq.ft
+    bsp: 80.8 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+3T
+    size: 1695
+    sizeIn: sq.ft
+    bsp: 84.8 Lacs
+    bsp-rate: 5000/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+3T
+    size: 1890
+    sizeIn: sq.ft
+    bsp: 94.5 Lacs
+    bsp-rate: 5000/Sq.ft
 ---

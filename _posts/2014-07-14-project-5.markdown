@@ -2,38 +2,62 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: Amrapali_Silicon_City.jpg
+img: Grand Heritage.jpg
 alt: image-alt
 project-date: April 2014
-client: Amrapali Silicon City
-category: Plots
-status: Construction started
-Address: Sector 76, Noida
+client: Ajnara Grand Heritage
+category: Apartment
+status: Under Construction
+Address: Sector 74, Noida
 AppartmentType: 2/3/4 BHK Apartments
-description: Amrapali Group is committed to set the trend for luxurious, modern and convenient living for the young age individuals. A well-constructed luxurious home in a prime location of Noida with every cozy living amenity and a comfortable lifestyle is offered by a mega polis of high tech homes called Amrapali Silicon City.  The launch of new residential project is recently announced by the Amrapali Group to refine the lifestyle of young age individual. The new residential project is located in the premium location of sector 76, Noida which is well connected with existing metro stations, Airport and famous market places. Amrapali Silicon Noida City Noida will have new range of 2, 3 & 4 BHK bedroom apartments and studio apartments with three layer security system. The whole township is sprawl over vast acre of land and more than 75% of area is kept open and covered with green landscape. There will be plenty of dreamt amenity in dream home like, swimming pool, jogging track, club house, recreational area, spa, gym, leisure and entertainment facility, health care, tennis And basketball court, closed and open parking space and many more to list. It is a first township where you can find the perfect combination of technology and nature to build e-homes. It is a Unique housing solution that is inspired by the high technology and modern architecture.
+description: Grand Ajnara Heritage yet another beautiful creation by the Ajnara India limited in the prime location of sector 74 Noida. Epitomizing a perfect blend of contemporary design and quality construction Ajnara Heritage is an integrated residential complex in NCR. Elegantly crafted apartments equipped with modern amenities and impressive features make this a perfect dream home. The project is situated amidst acres of green in a clam and well established residential area with 75 % open green spaces. Each and every apartment is designed according to Vaastu shastra norms. Located close proximity to famous schools, colleges, hospitals and multiplexes. Grand Ajnara Heritage sector 74 offers 2 & 3 BHK bedroom apartments loaded with modern amenities that you desire for the comfort  living. The project is bestowed with ultra-modern facilities like swimming pool of international standard, synthetically developed jogging track, spa, beauty salon, recreational area, club house, playground and many more to list. Avail the facilities like power supply, water supply, three layer security, ATM facility, doctors on call etc. existing and proposed metro corridors provides excellent connectivity to the site with national capital Delhi.  Live in a hub of activity, energy, business, leisure and pleasure. Its amazing world altogether at The Grand Ajnara Heritage.
 pricePlans:
-  - classification: Apartment
-    type: 2 BHK+2T
-    size: 950
-    sizeIn: sq.ft
-    bsp: 54.2 Lacs
-    bsp-rate: 5700/Sq.ft
   - classification: Apartment
     type: 2 BHK+2T
     size: 1075
     sizeIn: sq.ft
-    bsp: 61.3 Lacs
-    bsp-rate: 5700/Sq.ft
+    bsp: 51.9 Lacs
+    bsp-rate: 4825/Sq.ft
+  - classification: Apartment
+    type: 2 BHK+2T
+    size: 1230
+    sizeIn: sq.ft
+    bsp: 59.3 Lacs
+    bsp-rate: 4825/Sq.ft
+  - classification: Apartment
+    type: 2 BHK+2T
+    size: 1295
+    sizeIn: sq.ft
+    bsp: 62.5 Lacs
+    bsp-rate: 4825/Sq.ft
+  - classification: Apartment
+    type: 2 BHK+2T
+    size: 1325
+    sizeIn: sq.ft
+    bsp: 63.9 Lacs
+    bsp-rate: 4825/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1440
+    sizeIn: sq.ft
+    bsp: 69.5 Lacs
+    bsp-rate: 4825/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1545
+    sizeIn: sq.ft
+    bsp: 74.5 Lacs
+    bsp-rate: 4825/Sq.ft
+  - classification: Apartment
+    type: 3 BHK+2T
+    size: 1665
+    sizeIn: sq.ft
+    bsp: 80.3 Lacs
+    bsp-rate: 4825/Sq.ft
   - classification: Apartment
     type: 3 BHK+3T
-    size: 1475
+    size: 1815
     sizeIn: sq.ft
-    bsp: 84.1 Lacs
-    bsp-rate: 5700/Sq.ft
-  - classification: Apartment
-    type: 3 BHK+4T
-    size: 1775
-    sizeIn: sq.ft
-    bsp: 1 Cr.
-    bsp-rate: 5700/Sq.ft
+    bsp: 87.6 Lacs
+    bsp-rate: 4825/Sq.ft
 ---
