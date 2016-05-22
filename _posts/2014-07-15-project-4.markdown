@@ -6,7 +6,7 @@ img: ajnara-homes-121-logo.jpg
 alt: image-alt
 project-date: April 2014
 client: Ajnara Homes 121
-category: Apartment
+category: Housing Society
 status: Ready For Possession
 Address: Sector 121, Noida
 AppartmentType: 2/3 BHK Apartments

@@ -6,7 +6,7 @@ img: Grand Heritage.jpg
 alt: image-alt
 project-date: April 2014
 client: Ajnara Grand Heritage
-category: Apartment
+category: Housing Society
 status: Under Construction
 Address: Sector 74, Noida
 AppartmentType: 2/3/4 BHK Apartments

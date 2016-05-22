@@ -6,7 +6,7 @@ img: apex-athena-logo.jpg
 alt: image-alt
 project-date: April 2014
 client: Apex Athena
-category: Builder floor
+category: Housing Society
 status: Construction started
 Address: Sector 76, Noida
 AppartmentType: 2/3/4 BHK Apartments

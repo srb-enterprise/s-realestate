@@ -6,7 +6,7 @@ img: Supertech North Eye.jpg
 alt: image-alt
 project-date: April 2014
 client: Supertech Northeye
-category: Apartments
+category: Housing Society
 status: Under Construction
 Address: Sector 76, Noida
 AppartmentType: 2/3/4 BHK Apartments
