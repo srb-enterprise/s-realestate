@@ -12,53 +12,40 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <h2>{{ post.client }} </h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <strong><a href="javascript:void()">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong><a href="javascript:void()">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong><a href="javascript:void()">{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            
                         </div>
                     </div>
-                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-                        <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwo">
-                              <h4 class="panel-title">
-                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                  Collapsible Group Item #2
-                                </a>
-                              </h4>
-                            </div>
-                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                              <div class="panel-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                              </div>
-                            </div>
-                          </div>
-                      </div>
+                     
                     <div id="price-plan" >
                         
-                        <table class="table table-hover well">
-                          <tr>
-                              <td>Classification</td>
-                              <td>Type</td>
-                              <td>Size (sq.ft)</td>
-                              <td>BSP (in Rs.)</td>
-                              <td>Floor Plan</td>
-                          </tr>
+                        <table class="table table-hover">
+                            <thead class="thead-default">
+                              <tr>
+                                  <td>Classification</td>
+                                  <td>Type</td>
+                                  <td>Size (sq.ft)</td>
+                                  <td>BSP (in Rs.)</td>
+                                  <!--<td>Floor Plan</td>-->
+                              </tr>
+                            </thead>
                           {% for plan in post.pricePlans %}
                               <tr>
                                   <td>{{ plan.classification }}</td>
@@ -69,6 +56,8 @@
                           {% endfor %}
                         </table>
                     </div>
+                    
+                  <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                 </div>
             </div>
         </div>
